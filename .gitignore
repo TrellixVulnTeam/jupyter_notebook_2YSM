@@ -1,3 +1,4 @@
 # jupyter notebook
 .ipynb_checkpoints/
 001/dataSet/
+*.zip
