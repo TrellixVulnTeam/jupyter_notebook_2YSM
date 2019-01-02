@@ -3,4 +3,5 @@
 001/dataSet/
 *.zip
 *.gz
-E:\jupyter_notebook\MNIST-Demo\CheckPointDir\
+MNIST-Demo/CheckPointDir/*
+public-dataset/
