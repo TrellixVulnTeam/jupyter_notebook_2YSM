@@ -2,3 +2,5 @@
 .ipynb_checkpoints/
 001/dataSet/
 *.zip
+*.gz
+E:\jupyter_notebook\MNIST-Demo\CheckPointDir
