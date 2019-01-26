@@ -5,3 +5,7 @@
 *.gz
 MNIST-Demo/CheckPointDir/*
 public-dataset/
+d2l/chapter_deep-learning-computation/mlp.params
+d2l/chapter_deep-learning-computation/mydict
+d2l/chapter_deep-learning-computation/x
+d2l/chapter_deep-learning-computation/xy
