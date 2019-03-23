@@ -9,3 +9,4 @@ d2l/chapter_deep-learning-computation/mlp.params
 d2l/chapter_deep-learning-computation/mydict
 d2l/chapter_deep-learning-computation/x
 d2l/chapter_deep-learning-computation/xy
+tfbook/ch4/ckpt_dir/*
